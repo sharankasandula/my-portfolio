@@ -87,7 +87,7 @@
             <h2 class="text-2xl font-bold">Resume</h2>
             <p>4+ years in software design and development</p>
             <a
-              href="https://drive.google.com/file/d/1Pm0C-9V3js4OerbnegWIzO9yMdR_wx0o/view?usp=sharing"
+              href="https://drive.google.com/file/d/1bACQAIqfnejepRvZjfX0t3jRbKM4LbKL/view?usp=drive_link"
               target="_blank"
               class="text-blue-600 flex flex-row gap-2 hover:underline hover:underline-offset-4 md:mt-auto mt-4 w-fit"
             >
